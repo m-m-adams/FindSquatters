@@ -1,0 +1,241 @@
+[33mcommit 77270a2342cfc8601de5785ce011aa931a1e14b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2b896ff 9e909df
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Thu Jun 25 18:39:42 2020 -0400
+
+    Merge branch 'master' of https://github.com/m-m-adams/SquatCobbler
+
+[33mcommit 2b896ffded2580bca9ba22ab1625195e6be15dda[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Thu Jun 25 18:31:38 2020 -0400
+
+    typo
+
+[33mcommit 80e827a9055e5e5bbd0c45691fc50390684d9c90[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:48:41 2020 -0400
+
+    Update README.md
+
+[33mcommit 3c37025dd3e62d59490cdb3ba1cd208b542dd3c1[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:46:57 2020 -0400
+
+    Update README.md
+
+[33mcommit 85d08638c618293db8604ef6b9a1560884e66550[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:45:53 2020 -0400
+
+    Update README.md
+
+[33mcommit 80d0f7701ddd921abd9dd21305b4370dd6b7025d[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:45:01 2020 -0400
+
+    Update README.md
+
+[33mcommit 11db28e5adc2c95e07b8748ab9a5e4c77e761731[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:27:57 2020 -0400
+
+    Create README.md
+
+[33mcommit a6edb75c51269f60e6758533743d8be47919aa01[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:44:06 2020 -0400
+
+    fixed blank json output if given single invalid domain
+
+[33mcommit b9edd3331bbab6872a8d5633af06652284512910[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:10:25 2020 -0400
+
+    added options for io through stdin/stdout
+
+[33mcommit 8a366c5d16ebca8933f5bf166ce280afa6fb9d90[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 08:15:13 2020 -0400
+
+    addec cmd switches
+
+[33mcommit 5d01b3acad86c423468604a9b0b71079ea2da15d[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 22:03:04 2020 -0400
+
+    added cmdline flags
+
+[33mcommit 76127fd40d18f37af79e127275ef7bcda5bef06b[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:18:22 2020 -0400
+
+    Delete inputdomainschris.txt
+
+[33mcommit 9ff90fe74fdc47d36e1e0fe03df2106a18502d3f[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:18:15 2020 -0400
+
+    Delete inputdomains.txt
+
+[33mcommit 7972da3ef8d72dee1deacf5b1c84a8ad545a6df3[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:16:48 2020 -0400
+
+    fixed typo in output
+
+[33mcommit ba834d6133126edecfebcfcf52766b6b71e8f4dd[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:10:33 2020 -0400
+
+    fixed subdomain printing
+
+[33mcommit 7cb173fa8a35c5eb7d6b6d3d579d14b1d1c6ea9e[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:09:37 2020 -0400
+
+    fixed combination attack
+
+[33mcommit 0d9f9b00ca7b94dc062e3e40f1a697cfb7e3d283[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 14:39:37 2020 -0400
+
+    more attacks
+
+[33mcommit ed79c423e81c751b48717b508af77f990859cd91[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Sun Jun 21 22:51:29 2020 -0400
+
+    Delete checkedDomains.json
+
+[33mcommit 90fe227d2eef3b2c235529f811c53f6f6fbccab4[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Sun Jun 21 22:51:21 2020 -0400
+
+    Create .gitignore
+
+[33mcommit 9e909dffa1419bde0a203b273ca3485f2cd6538c[m[33m ([m[mrefs/original/refs/heads/master[m[33m)[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Thu Jun 25 18:31:38 2020 -0400
+
+    typo
+
+[33mcommit 87e4585a96435f3b2a2630f0c6d711fbc8b70905[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:48:41 2020 -0400
+
+    Update README.md
+
+[33mcommit ed3a3d65e9b46a61cec0f59658a026a206f956ce[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:46:57 2020 -0400
+
+    Update README.md
+
+[33mcommit 51b6b84deaacbe98bdde32276b5130ad6200cfc6[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:45:53 2020 -0400
+
+    Update README.md
+
+[33mcommit 134481e6d384dee70cde948cbd0bff1e4b10cd5b[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:45:01 2020 -0400
+
+    Update README.md
+
+[33mcommit ae70e6a31d3df102eedfee741ca0265548a19e7f[m
+Merge: ea5bfe9 83e82af
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Tue Jun 23 12:44:11 2020 -0400
+
+    Merge branch 'master' of https://github.com/m-m-adams/typosquater
+
+[33mcommit ea5bfe9c13d43019c980622f6d1178f741e823a3[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Tue Jun 23 12:44:06 2020 -0400
+
+    fixed blank json output if given single invalid domain
+
+[33mcommit 83e82af12718f3f0d4d888c36e519bdd10d19c32[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Tue Jun 23 12:27:57 2020 -0400
+
+    Create README.md
+
+[33mcommit 402e92a2052e93ec97922db275024cc84ccd1ce6[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Tue Jun 23 12:10:25 2020 -0400
+
+    added options for io through stdin/stdout
+
+[33mcommit 84a48a10abe428cc865c32965312540e9f45a6e2[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Tue Jun 23 08:15:13 2020 -0400
+
+    addec cmd switches
+
+[33mcommit aeba981f017b94e3f76c7c1ea5ac010d89471574[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Mon Jun 22 22:03:04 2020 -0400
+
+    added cmdline flags
+
+[33mcommit 06befea4bb17bc66bc94272ae4ba460b32c4c163[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:18:22 2020 -0400
+
+    Delete inputdomainschris.txt
+
+[33mcommit 21aa7aa13e5cb7c8173fb6773a69e627d8c9de1b[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Mon Jun 22 15:18:15 2020 -0400
+
+    Delete inputdomains.txt
+
+[33mcommit 841d4b2dc53aae20f8543dfbf6a4112b5158d452[m
+Author: Mark M. Adams <adams.mm@pangea.cfnoc>
+Date:   Mon Jun 22 15:16:48 2020 -0400
+
+    fixed typo in output
+
+[33mcommit b811af95fc27e433bc0a21f69b42fb1202682327[m
+Author: Mark M. Adams <adams.mm@pangea.cfnoc>
+Date:   Mon Jun 22 15:10:33 2020 -0400
+
+    fixed subdomain printing
+
+[33mcommit b163ef232e56a3cbfcf86c85a9df1c74dd124618[m
+Author: Mark M. Adams <adams.mm@pangea.cfnoc>
+Date:   Mon Jun 22 15:09:37 2020 -0400
+
+    fixed combination attack
+
+[33mcommit 94f71c5407f4236ae4c96d19e0f630b8eae71e63[m
+Author: Mark M. Adams <adams.mm@pangea.cfnoc>
+Date:   Mon Jun 22 14:39:37 2020 -0400
+
+    more attacks
+
+[33mcommit 195df1518954c325f82c40b2bc09fcb829c17191[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Sun Jun 21 22:51:29 2020 -0400
+
+    Delete checkedDomains.json
+
+[33mcommit 128445f5dd0d1ce525b7eeed355895c6a9562b80[m
+Author: m-m-adams <52469396+m-m-adams@users.noreply.github.com>
+Date:   Sun Jun 21 22:51:21 2020 -0400
+
+    Create .gitignore
+
+[33mcommit 5073f0cccf47a6cd778d8e0dfb4d6579ce4a0282[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Sun Jun 21 22:49:19 2020 -0400
+
+    added attack, whois flag
+
+[33mcommit 6e53cf2b6f512914099af8e7c8e9f689ff63da16[m
+Author: m-m-adams <adams.m.mark@gmail.com>
+Date:   Sat Jun 20 15:59:37 2020 -0400
+
+    url
