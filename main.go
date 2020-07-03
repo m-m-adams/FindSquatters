@@ -152,6 +152,8 @@ func main() {
 	var output io.Writer
 	if len(*outputfile) == 0 {
 		output = os.Stdout
+		writer := bufio.NewWriter(output)
+		os.Exit(typosquatter(domains, writer, *whoisLookup))
 	} else {
 		output, err := os.Create(*outputfile)
 
@@ -159,10 +161,10 @@ func main() {
 			fmt.Println(err)
 			panic(err)
 		}
+
 		defer output.Close()
+		writer := bufio.NewWriter(output)
+		os.Exit(typosquatter(domains, writer, *whoisLookup))
 	}
 
-	writer := bufio.NewWriter(output)
-
-	os.Exit(typosquatter(domains, writer, *whoisLookup))
 }
